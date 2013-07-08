@@ -9,7 +9,7 @@ nextLink="http://9gag.com/"
 pageNumber=1
 
 def FindLinks(): #required for getting page source of base page that is then passed to FindLinks2
- os.system("echo Start|cat>>log")
+	os.system("echo Start|cat>>log")
 	base_link="http://9gag.com/"
 	base_contents=urllib2.urlopen(base_link).read()
 	FindLinks2(base_contents)
@@ -108,4 +108,6 @@ os.system("echo End|cat>>log")
 os.system("echo Total Images downloaded : %d | cat>>log" %number)
 os.system("echo ------------------------------------------|cat>>log")
 os.system("echo|cat")
+
+
 
