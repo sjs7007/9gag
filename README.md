@@ -10,6 +10,6 @@ Usage is as follows :
 python 9gagFinal.py and enter the number of pages to be downloaded as input and my script will do the rest for you! 
 
 
-For any queries, mail me at sjs7007@gmail.com!
+For any queries, drop me a line here!
 
 Cheers!
