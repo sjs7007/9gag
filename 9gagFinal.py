@@ -1,4 +1,4 @@
-# For any queries, mail me at sjs7007@gmail.com!
+# Author : sjs7007@gmail.com
 # New script after site changed : Working as of 8th July 2013
 
 import os
